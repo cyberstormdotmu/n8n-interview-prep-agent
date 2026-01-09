@@ -1,5 +1,5 @@
 # Snap to the version with security fixes
-FROM n8nio/n8n:1.106.3-alpine
+FROM n8nio/n8n:1.123.11
 
 USER root
 
